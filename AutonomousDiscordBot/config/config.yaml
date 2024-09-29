@@ -1,0 +1,4 @@
+discord_token: 'YOUR_DISCORD_BOT_TOKEN'
+prefix: '!'
+database_url: 'sqlite:///bot_database.sqlite'
+
